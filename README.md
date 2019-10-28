@@ -1,2 +1,2 @@
-# algorithms
-JS solution
+# Algorithms
+Решения интересных алгоритмических задачек на js.
